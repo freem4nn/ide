@@ -1,4 +1,4 @@
-![N|Solid](https://camo.githubusercontent.com/6e8f6ec0646b96ade72f57b3d2a123d972cabfaf/68747470733a2f2f626c6f672e6c61756e63686461726b6c792e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31302f76697375616c73747564696f5f636f64652d636172642e706e67icon-icons.com/icons2/615/PNG/48/Visual_Studio_icon-icons.com_56597.png)
+
 
 ### Visual Studio 
 ---
@@ -41,5 +41,5 @@ open source | no build in cheat sheet
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4OTMwMjgyOV19
+eyJoaXN0b3J5IjpbMjA0OTk1MzAwLDEzODkzMDI4MjldfQ==
 -->
