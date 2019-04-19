@@ -37,7 +37,7 @@ open source | no build in cheat sheet
  2. Sublime is my ide of choice because it does not slow down my system (laptop)
  3. When working with a desktop workstation i would choose visual studio due to its multi functionality
  
- # Source : [https://www.google..com] :laughing:
+ # Source : https://www.google.com :laughing:
  
  Here is a random piece of code with no other purpose than meeting the requirements for this markdown sheet exercise:
 ```javascript
