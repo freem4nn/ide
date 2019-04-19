@@ -39,5 +39,9 @@ open source | no build in cheat sheet
  
  # Source : [https://www.google..com] :laughing:
  
-
+ Here is a random piece of code with no other purpose than meeting the requirements for this markdown sheet exercise:
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
  
