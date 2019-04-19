@@ -31,6 +31,19 @@ Clean and very responsive editor, at first glance seeming a bit complicated, but
 clear layout | non universal shortcuts
 open source | no build in cheat sheet 
 
+# Are our Requirements met?
+- [x] Environment - what other applications are we using? 
+- [x] What programming languages are we using? HTML, CSS, JS
+- [x] Collaboration on code and projects enabled
+- [ ] Easy on the eye
+- [x] Support for other languages or applications used in future projects (C#, Java)
+- [x] Previously used IDEs
+- [x] Must be free!
+- [x] Is commonly used in business
+
+### Testimonial:
+>Visual Studio is what developers buy when they grow up, get serious and don’t mind that other developers know they’re using Microsoft.
+
 ### Final thoughts
  
  1. When working with a laptop make sure your ide does not take all of your memory.
